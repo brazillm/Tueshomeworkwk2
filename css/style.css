@@ -1,0 +1,117 @@
+
+.navbar {
+height:30px;
+width: 100%;
+font-family: arial;
+font-size: 16px;
+color:grey;
+padding: 5px;
+border: 1px solid black;
+}
+ul {
+  display: inline;
+
+}
+li {
+display:inline;
+}
+
+.header {
+height: 400px;
+width:100%;
+border: 1px solid black;
+color: white;
+margin:0 auto;
+font-size: 25px;
+font-family: sans-serif;
+}
+.header{
+background-image: url("../images/beach.jpeg");
+}
+
+.container{
+  height:1000px;
+  border:1px solid black;
+}
+
+.fivebox  {
+background-color: #519251;
+height: 450px;
+width: 23%;
+
+float: left;
+margin-left: 150px;
+margin-top: 30px;
+margin-right:10px;
+color:white;
+font-size: 35px;
+
+}
+
+.twentyfivebox {
+background-color: #2c4985;
+height: 450px;
+width: 23%;
+float:left;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 30px;
+color:white;
+font-size: 35px;
+
+}
+.fourtyfivebox {
+  background-color:black;
+  height: 450px;
+  width: 23%;
+  float:right;
+  margin-left: 10px;
+  margin-right: 150px;
+  margin-top:30px;
+  color:white;
+  font-size: 35px;
+}
+
+.greenlist {
+  background-color: lightgrey;
+  height:350px;
+  width: 100%;
+  margin-top: 50px
+
+}
+.bluelist{
+  background-color: lightgrey;
+  height:350px;
+  width: 100%;
+  margin-top: 50px
+}
+.blacklist {
+  background-color: lightgrey;
+  height:350px;
+  width: 100%;
+  margin-top: 50px;
+}
+.textleft1 {
+  height: 400px;
+  width: 35%;
+  border:1px solid black;
+  margin-left:150px;
+  margin-top:100px;
+  float: left;
+
+}
+.textright1 {
+  height: 400px;
+  width: 35%;
+  border:1px solid black;
+  margin-right: 150px;
+  margin-top:100px;
+  float: right;
+
+}
+.footer {
+  height: 50px;
+  width:100%;
+  background-color: dimgrey;
+
+}
